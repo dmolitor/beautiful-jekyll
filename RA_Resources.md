@@ -1,3 +1,10 @@
+---
+layout: page
+title: Economics RA Resources
+subtitle: Where to find job listings and how to secure a high-quality position.
+comments: true
+---
+
 <h1> RA Resources and Tips </h1>
 
 This is a conglomeration of resources that I found helpful in my long and meandering search for an RA position. In particular, this guide is designed for individuals who, like me, are coming from a small school with no name recognition and have little to no advice on how to obtain a quality RA position. The resources that I will list here are all resources that I found immensely helpful for me in my search process. If you're in a similar position to the one I was in, my hope is that this resource can give you some direction or, at a minimum, some comfort that you're not the only one. If you're killing the game and have professors spamming your email, pleading with you to please consider working with them, chances are you don't need this. Regardless, I hope that this proves to be useful for somebody, and if it doesn't, it's still therapeutic in a way for me to vomit out all the information I've gathered throughout the process. So, without further ado,
