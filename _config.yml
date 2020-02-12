@@ -22,7 +22,7 @@ description: Personal Website
 navbar-links:
   CV: "https://drive.google.com/file/d/1l59pTdFRhUNRoBCZSS0DzS_Dm42aWbA3/view?usp=sharing"
   # RA Resources: "RA_Resources"
-    # - Learn markdown: "http://www.markdowntutorial.com/"
+  # - Learn markdown: "http://www.markdowntutorial.com/"
   # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -67,7 +67,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 # facebook: deanattali
-  github: dmol97
+  github: dmolitor
 #  twitter: daattali
 #  reddit: yourname
   linkedin: molitor-daniel/
