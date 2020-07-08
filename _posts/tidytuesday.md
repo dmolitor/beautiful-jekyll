@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: TidyTuesday
 subtitle: Somewhat boring explorations into non-boring TidyTuesday data.
 comments: true
