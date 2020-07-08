@@ -21,7 +21,7 @@ description: Personal Website
 # List of links in the navigation bar
 navbar-links:
   CV: "https://drive.google.com/file/d/1l59pTdFRhUNRoBCZSS0DzS_Dm42aWbA3/view?usp=sharing"
-  TidyTuesday: "TidyTuesday"
+  #TidyTuesday: "TidyTuesday"
   # RA Resources: "RA_Resources"
   # - Learn markdown: "http://www.markdowntutorial.com/"
   # Author's home: "http://deanattali.com"
