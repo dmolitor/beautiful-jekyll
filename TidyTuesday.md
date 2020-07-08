@@ -9,3 +9,4 @@ This page archives my explorations into the wonderful data provided by the [Tidy
 All code and Markdown files can be found on [my Github account](https://github.com/dmolitor).
 
 ### TidyTuesday - 2020.07.07 ###
+[Explore coffee quality data!](https://htmlpreview.github.io/?https://github.com/dmolitor/dmolitor.github.io/blob/master/_data/tidy_tuesday_7.7.2020.html)
