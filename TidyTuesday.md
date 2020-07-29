@@ -9,13 +9,13 @@ This page archives my explorations into the wonderful data provided by the [Tidy
 All scripts, Markdown files, and html files can be found on [my Github account](https://github.com/dmolitor).
 
 ### TidyTuesday - 2020.07.28 ###
-[Antarctica penguin data!](https://github.com/dmolitor/dmolitor.github.io/blob/master/_data/tidy_tuesday_7.28.2020.html)
+[Antarctica penguin data!](https://rawcdn.githack.com/dmolitor/dmolitor.github.io/80c14e9da6b2cc64d67ee6e92d04731de2b23407/_data/tidy_tuesday_7.28.2020.html)
 
 ### TidyTuesday - 2020.07.21 ###
-[Australia animal outcomes!](https://htmlpreview.github.io/?https://github.com/dmolitor/dmolitor.github.io/blob/master/_data/tidy_tuesday_7.21.2020.html)
+[Australia animal outcomes!](https://rawcdn.githack.com/dmolitor/dmolitor.github.io/80c14e9da6b2cc64d67ee6e92d04731de2b23407/_data/tidy_tuesday_7.21.2020.html)
 
 ### TidyTuesday - 2020.07.14 ###
-[Dive into some astronaut data!](https://htmlpreview.github.io/?https://github.com/dmolitor/dmolitor.github.io/blob/master/_data/tidy_tuesday_7.14.2020.html)
+[Dive into some astronaut data!](https://rawcdn.githack.com/dmolitor/dmolitor.github.io/80c14e9da6b2cc64d67ee6e92d04731de2b23407/_data/tidy_tuesday_7.14.2020.html)
 
 ### TidyTuesday - 2020.07.07 ###
-[Explore coffee quality data!](https://htmlpreview.github.io/?https://github.com/dmolitor/dmolitor.github.io/blob/master/_data/tidy_tuesday_7.7.2020.html)
+[Explore coffee quality data!](https://rawcdn.githack.com/dmolitor/dmolitor.github.io/80c14e9da6b2cc64d67ee6e92d04731de2b23407/_data/tidy_tuesday_7.7.2020.html)
