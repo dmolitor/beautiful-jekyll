@@ -9,7 +9,7 @@ This page archives my explorations into the wonderful data provided by the [Tidy
 All scripts, Markdown files, and html files can be found on [my Github account](https://github.com/dmolitor).
 
 ### TidyTuesday - 2020.07.28 ###
-[Antarctica penguin data!](https://htmlpreview.github.io/?https://github.com/dmolitor/dmolitor.github.io/blob/master/_data/tidy_tuesday_7.28.2020.html)
+[Antarctica penguin data!](https://github.com/dmolitor/dmolitor.github.io/blob/master/_data/tidy_tuesday_7.28.2020.html)
 
 ### TidyTuesday - 2020.07.21 ###
 [Australia animal outcomes!](https://htmlpreview.github.io/?https://github.com/dmolitor/dmolitor.github.io/blob/master/_data/tidy_tuesday_7.21.2020.html)
