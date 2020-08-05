@@ -10,7 +10,7 @@ All scripts, Markdown files, and html files can be found on [my Github account](
 
 
 ### TidyTuesday - 2020.08.04 ###
-[European energy data!](https://rawcdn.githack.com/dmolitor/dmolitor.github.io/80c14e9da6b2cc64d67ee6e92d04731de2b23407/_data/tidy_tuesday_8.4.2020.html)
+[European energy data!](https://rawcdn.githack.com/dmolitor/dmolitor.github.io/a53bf98c01ea7c322000bcd34cea73c8bc31ee29/_data/tidy_tuesday_8.4.2020.html)
 
 ### TidyTuesday - 2020.07.28 ###
 [Antarctica penguin data!](https://rawcdn.githack.com/dmolitor/dmolitor.github.io/80c14e9da6b2cc64d67ee6e92d04731de2b23407/_data/tidy_tuesday_7.28.2020.html)
