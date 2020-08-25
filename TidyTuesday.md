@@ -8,6 +8,9 @@ comments: true
 This page archives my explorations into the wonderful data provided by the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) project.
 All scripts, Markdown files, and html files can be found on [my Github account](https://github.com/dmolitor).
 
+### TidyTuesday - 2020.08.25 ###
+[Chopped data!](https://rawcdn.githack.com/dmolitor/dmolitor.github.io/9c5e917eea003e95d01a6d59e681baafdfc0b0df/_data/tidy_tuesday_8.25.2020.html)
+
 ### TidyTuesday - 2020.08.11 ###
 [Avatar: The Last Airbender data!](https://rawcdn.githack.com/dmolitor/dmolitor.github.io/967590877a7fc90ce3e22b5c4f7586bbf22fde7b/_data/tidy_tuesday_8.11.2020.html)
 
