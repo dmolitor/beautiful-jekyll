@@ -20,7 +20,7 @@ description: Website
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "/_data/CV.pdf"
+  CV: "https://drive.google.com/file/d/1ABuzGFzbOZrn9LeD2oUXvUtFpZLOjqwS/view?usp=sharing"
   Tidy Tuesday: "TidyTuesday"
   Visualizations: "/gallery/visualizations.html"
   Spotify AnalyzeR: "https://dmolitor.shinyapps.io/spotify_dashboards_landing/"
