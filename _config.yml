@@ -4,7 +4,7 @@
 title: Daniel Molitor
 
 # Short description of your site
-description: Personal Website
+description: Website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,7 +20,7 @@ description: Personal Website
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "https://drive.google.com/file/d/1l59pTdFRhUNRoBCZSS0DzS_Dm42aWbA3/view?usp=sharing"
+  CV: "/_data/CV.pdf"
   Tidy Tuesday: "TidyTuesday"
   Visualizations: "/gallery/visualizations.html"
   Spotify AnalyzeR: "https://dmolitor.shinyapps.io/spotify_dashboards_landing/"
