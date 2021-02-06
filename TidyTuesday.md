@@ -6,7 +6,7 @@ comments: true
 ---
 
 This page archives my explorations into the wonderful data provided by the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) project.
-All scripts, Markdown files, and html files can be found on [my Github account](https://github.com/dmolitor).
+All scripts, Markdown files, and html files can be found on [my Github account](https://github.com/dmolitor/tidytuesday).
 
 ### TidyTuesday - 2020.08.25 ###
 [Chopped data!](https://rawcdn.githack.com/dmolitor/dmolitor.github.io/9c5e917eea003e95d01a6d59e681baafdfc0b0df/_data/tidy_tuesday_8.25.2020.html)
