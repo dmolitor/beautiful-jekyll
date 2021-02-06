@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TidyTuesday
-subtitle: Somewhat boring explorations into non-boring TidyTuesday data.
+subtitle: Explorations into TidyTuesday data.
 comments: true
 ---
 
