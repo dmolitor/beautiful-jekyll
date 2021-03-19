@@ -22,8 +22,8 @@ description: Website
 navbar-links:
   Resources:
     - CV: "https://drive.google.com/file/d/1ABuzGFzbOZrn9LeD2oUXvUtFpZLOjqwS/view?usp=sharing"
-    - Tidy Tuesday: "TidyTuesday"
-    - Visualizations: "/gallery/visualizations.html"
+#    - Tidy Tuesday: "TidyTuesday"
+#    - Visualizations: "/gallery/visualizations.html"
     - Spotify AnalyzeR: "https://dmolitor.shinyapps.io/spotify_dashboards_landing/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
