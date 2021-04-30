@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Parallel Vectorization in R
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img:
