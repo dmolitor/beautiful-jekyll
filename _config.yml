@@ -175,8 +175,13 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      carbonads: true
+      comments: true
+      social-share: true
+      show-share: true
+      show-subscribe: true
+      support_promo_box: true
+      after-content: [share-section.html, purpleads.html, scroll-box.html]
   -
     scope:
       path: "" # all files
