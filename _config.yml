@@ -22,6 +22,7 @@ description: Website
 navbar-links:
   Resources:
     - CV: "https://drive.google.com/file/d/1ABuzGFzbOZrn9LeD2oUXvUtFpZLOjqwS/view?usp=sharing"
+    - Blog: /_posts
 #    - Tidy Tuesday: "TidyTuesday"
 #    - Visualizations: "/gallery/visualizations.html"
     - Spotify AnalyzeR: "https://dmolitor.shinyapps.io/spotify_dashboards_landing/"
