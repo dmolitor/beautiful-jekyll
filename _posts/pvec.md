@@ -1,10 +1,6 @@
 ---
 title: Parallel Vectorization in R
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img:
-thumbnail-img: 
-share-img:
-tags: [R, Parallel Computing]
 ---
 
 Something you learn pretty early on with R is that vectorization of functions is valuable, both for code optimization and ease-of-use. It's often easier (at least for me)
