@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Work/Tech Related
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Currently serving as an RA to Dr. Justine Hastings with the hope of pursuing a PhD in Economics in the fall of 2022
+- I'm not trained in CS but I find it fascinating, and I like to geek out about stuff I don't understand
+- I'm a big fan of R and it's ecosystems, trying to learn Julia, and can hack away a bit in Python under threat of death
 
-What else do you need?
+Personal Life Related
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- I'm a ⚾ nerd (unsurprisingly)
+- If it has discs involved, I'm down
+- I'm one of 8 kids, and have an ever-expanding pool of (currently ~ 25) neices and nephews, so that's fun!
+- I love to debate philisophical things, so if you want to get into a friendly argument about something I'm happy to oblige 😉
