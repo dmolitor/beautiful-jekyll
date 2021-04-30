@@ -1,7 +1,7 @@
 # Daniel's Website
 
 Just my personal website.
-## This was not made by me##
+## This was not made by me
 
 [This was made by Dean Attali](https://beautifuljekyll.com/)
 
