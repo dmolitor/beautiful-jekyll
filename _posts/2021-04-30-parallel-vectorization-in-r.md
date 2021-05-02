@@ -34,7 +34,7 @@ add_slow(c(1, 3), c(2, 4))
 #> [1] 10
 ```
 As you can see, the output of `add_slow(c(1, 3), c(2, 4))` is the same as `sum(c(1, 2, 3, 4))` which is not what we want in this case. To acheive the desired result, we need to
-vectorize `add_slow`. Thankfully, base R has a convenience function `Vectorize` for this that makes things very simple. To vectorize we simply do the following
+vectorize `add_slow`. Thankfully, base R has a convenience function `Vectorize` for this that makes things very simple. To vectorize we do the following:
 ```r
 # base::Vectorize will solve this problem for us
 vadd_slow <- Vectorize(FUN = add_slow, vectorize.args = c("a", "b"))
@@ -88,8 +88,8 @@ a version of `base::Vectorize` that runs in parallel!
 
 ## How can we vectorize base::Vectorize ##
 
-The first question here is how `base::Vectorize` acheives its vectorization behavior. To understand that let's take a look at the source code for the function, and you'll
-see the following line near the bottom of the function
+The first question here is how `base::Vectorize` acheives its vectorization behavior. To understand that, let's take a look at the source code for the function, and you'll
+see the following line near the bottom of the function.
 ```r
 # Take a look at base::Vectorize source code
 base::Vectorize
@@ -98,7 +98,7 @@ base::Vectorize
 #>             SIMPLIFY = SIMPLIFY, USE.NAMES = USE.NAMES))
 #> ...
 ```
-Basically, it is taking your arguments as vectors, and it is using the `base::mapply` function to iterate `FUN` across each 'row' of your arguments. To see how this
+Basically, it is taking the arguments as vectors, and it is using the `base::mapply` function to iterate `FUN` across each 'row' of the arguments. To see how this
 works, let's look at the following examples.
 ```r
 # Create two vectors like our example above
@@ -109,7 +109,7 @@ b <- c(2, 4)
 mapply(sum, a, b)
 #> [1] 3 7
 ```
-As you can see, this acheives the behavior that applying the `Vectorize` function acheived. This is because `Vectorize` is basically a user-friendly wrapper
+As you can see, this mimicks the behavior that applying the `Vectorize` function acheived. This is because `Vectorize` is basically a user-friendly wrapper
 around `base::mapply`. Thankfully, the [future.apply](https://cran.r-project.org/web/packages/future.apply/vignettes/future.apply-1-overview.html) package has 
 implemented parallel versions of all the base-R \*apply() functions, so all we need to do is replace the `base::mapply` call with `future.apply::future_mapply`!
 ```r
@@ -164,7 +164,7 @@ Next, initialize our parallel session.
 # My machine has 8 cores -- so using 8 background sessions in parallel
 plan(multisession)
 ```
-Now, let's compare the time it takes our non-parallel vectorized function to compute the output compared to the parallel vectorized function
+Now, let's compare the time it takes our non-parallel vectorized function to compute the output compared to the parallel vectorized function.
 ```r
 # How fast is the first one approximately?
 start_time <- Sys.time()
@@ -198,6 +198,6 @@ dat %>% mutate(col3 = pvadd_slow(col1, col2))
 Sys.time() - start_time
 #> Time difference of 1.410486 secs
 ```
-The speed up was almost seven-fold! Although these same results can be acheived many different ways, this is a quick and easy way to acheive optimization both through
+The speed up was almost seven-fold! Although these same results can be accomplished many different ways, this is a quick and easy way to acheive optimization both through
 the act of vectorization itself, and by doing it in parallel.
 
