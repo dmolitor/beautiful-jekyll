@@ -198,6 +198,9 @@ dat %>% mutate(col3 = pvadd_slow(col1, col2))
 Sys.time() - start_time
 #> Time difference of 1.410486 secs
 ```
-The speed up was almost seven-fold! Although these same results can be accomplished many different ways, this is a quick and easy way to acheive optimization both through
-the act of vectorization itself, and by doing it in parallel.
+The speed up was almost seven-fold! Although these same results can be accomplished many different ways, this is a quick and easy way to acheive optimization through vectorization in parallel.
+
+## Warning ##
+
+Using `Vectorize` to vectorize functions is probably not the best or most stable way to do so, as discussed in [this blog post](https://www.jimhester.com/post/2018-04-12-vectorize/) by Jim Hester, unless you're fully aware of the possible side effects and drawbacks. So basically this post isn't super useful 😆
 
