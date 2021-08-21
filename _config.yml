@@ -146,7 +146,9 @@ staticman:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: -1
+excerpt_length: 50
+feed_show_excerpt: false
+feed_show_tags: false
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
