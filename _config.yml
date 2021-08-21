@@ -149,6 +149,7 @@ staticman:
 excerpt_length: 50
 feed_show_excerpt: false
 feed_show_tags: false
+feed_show_read_more: false
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
