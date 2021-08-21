@@ -38,7 +38,7 @@ subtitle: "Economic Analyst"
           {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
 	{% endif %}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length and site.feed_show_read_more == true %}
           <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
       </div>
