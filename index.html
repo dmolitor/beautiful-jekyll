@@ -44,7 +44,7 @@ subtitle: "Economic Analyst"
       </div>
     </div>
 
-    {% if post.tags.size > 0 %}
+    {% if post.tags.size > 0 and site.feed_show_tags == true %}
     <div class="blog-tags">
       Tags:
       {% if site.link-tags %}
